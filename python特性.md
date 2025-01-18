@@ -41,7 +41,7 @@ hex(int(a,2))[2:]
 >>> print(bisect.bisect(a,6))
 3
 ```
-# 4 判断字符串收据类型
+# 4 判断字符串数据类型
 
 ```py
 str.isalpha()字母
@@ -57,11 +57,12 @@ Python 中的 get() 方法用于从字典中获取指定键的值。如果键不
 Python 字典keys() 函数以列表返回一个字典所有的键
 Python 字典 popitem() 方法随机返回并删除字典中的最后一对键和值 popitem(last = False)可以弹出最早的值
 
-
+# 6 转换大小写
+lower)
 
 > 
 > Written with [StackEdit中文版](https://stackedit.cn/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzEzOTE5XX0=
+eyJoaXN0b3J5IjpbLTIzOTk2MTY5NywxMDE3MTM5MTldfQ==
 -->
