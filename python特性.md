@@ -58,11 +58,14 @@ Python 字典keys() 函数以列表返回一个字典所有的键
 Python 字典 popitem() 方法随机返回并删除字典中的最后一对键和值 popitem(last = False)可以弹出最早的值
 
 # 6 转换大小写
-lower)
+lower()
+upper()
+title()每个单词首字母大写
+capotalize()字符串首字母大写
 
 > 
 > Written with [StackEdit中文版](https://stackedit.cn/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTk2MTY5NywxMDE3MTM5MTldfQ==
+eyJoaXN0b3J5IjpbNzM4NzM5OTQsMTAxNzEzOTE5XX0=
 -->
