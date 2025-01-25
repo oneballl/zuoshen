@@ -63,9 +63,14 @@ upper()
 title()每个单词首字母大写
 capotalize()字符串首字母大写
 
+# numpy库
+数组去重并排序numpy.unique()
+
+
 > 
 > Written with [StackEdit中文版](https://stackedit.cn/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NzM5OTQsMTAxNzEzOTE5XX0=
+eyJoaXN0b3J5IjpbMTE3NDc4MzgzMyw3Mzg3Mzk5NCwxMDE3MT
+M5MTldfQ==
 -->
